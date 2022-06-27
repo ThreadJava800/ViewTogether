@@ -1,4 +1,6 @@
 package com.example.viewtogether.search
 
-class JoinViewModel {
+import androidx.lifecycle.ViewModel
+
+class JoinViewModel : ViewModel() {
 }

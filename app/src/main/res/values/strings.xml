@@ -2,5 +2,7 @@
     <string name="app_name">ViewTogether</string>
     <string name="settings_sector">Settings</string>
     <string name="join_sector">Join</string>
+    <string name="enter_code">Code</string>
+    <string name="connect_to_conference">Connect</string>
     <string name="create_sector">Create</string>
 </resources>

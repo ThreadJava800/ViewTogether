@@ -1,4 +1,6 @@
 package com.example.viewtogether.create
 
-class CreateViewModel {
+import androidx.lifecycle.ViewModel
+
+class CreateViewModel : ViewModel() {
 }
