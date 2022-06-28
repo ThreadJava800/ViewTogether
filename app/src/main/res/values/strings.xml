@@ -1,8 +1,13 @@
 <resources>
     <string name="app_name">ViewTogether</string>
+
     <string name="settings_sector">Settings</string>
+
     <string name="join_sector">Join</string>
     <string name="enter_code">Code</string>
+    <string name="error_in_code">Code must contain 8 digits and no other characters</string>
     <string name="connect_to_conference">Connect</string>
+
     <string name="create_sector">Create</string>
+    <string name="choose_file">Choose file</string>
 </resources>
