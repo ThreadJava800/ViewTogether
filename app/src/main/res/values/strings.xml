@@ -2,6 +2,8 @@
     <string name="app_name">ViewTogether</string>
 
     <string name="settings_sector">Settings</string>
+    <string name="basic_family_name">Anonymous</string>
+    <string name="basic_second_name">User</string>
 
     <string name="join_sector">Join</string>
     <string name="enter_code">Code</string>
@@ -10,4 +12,6 @@
 
     <string name="create_sector">Create</string>
     <string name="choose_file">Choose file</string>
+    <string name="youtube_link_placeholder">e.x. https://youtube.com</string>
+    <string name="youtube_link_label">Youtube link</string>
 </resources>
